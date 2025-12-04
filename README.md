@@ -93,9 +93,13 @@ cursor: pointer → pointer for clickable elements
 
 💻 Tools Used
 
+
 CSS3
+
 HTML5 (for structure)
+
 Visual Studio Code
+
 Git & GitHub
 
 🙋‍♂️ About Me
